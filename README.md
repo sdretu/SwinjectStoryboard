@@ -13,7 +13,7 @@ SwinjectStoryboard is an extension of Swinject to automatically inject dependenc
 
 ## Requirements
 
-- iOS 8.0+ / Mac OS X 10.10+ / tvOS 9.0+
+- iOS 12.0+ / Mac OS X 10.13+ / tvOS 12.0+
 - Xcode 8+
 
 ## Installation
